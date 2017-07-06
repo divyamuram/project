@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>
-hello</title>
+<title>hello</title>
 </head>
 <body>
 <h1>this is first program</h1>
